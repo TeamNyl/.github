@@ -2,8 +2,8 @@
 
 > 以无为名，创造所有。
 
-![Hero Image, letters "nil" and a null set symbol layed out horizontally, monospaced font](./hero-dark#gh-dark-mode-only)
-![Hero Image, letters "nil" and a null set symbol layed out horizontally, monospaced font](./hero-light#gh-light-mode-only)
+![Hero Image, letters "nil" and a null set symbol layed out horizontally, monospaced font](./hero-dark.png#gh-dark-mode-only)
+![Hero Image, letters "nil" and a null set symbol layed out horizontally, monospaced font](./hero-light.png#gh-light-mode-only)
 
 
 Four high school student across the country; brough together by the passion for game development.
